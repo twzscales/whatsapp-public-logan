@@ -47,7 +47,6 @@ Logan is a **self-hosted WhatsApp bot** that runs on your own server/computer us
 - **Customizable**: Full control over behavior, scheduling, and features
 - **Open Source**: Inspect, modify, and extend the code as you wish
 - **Community-Driven**: Built by the community, for the community
-- **Hebrew Support**: Built with Hebrew-speaking communities in mind
 
 ---
 
