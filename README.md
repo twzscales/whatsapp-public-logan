@@ -5,7 +5,7 @@
 
 A powerful, self-hosted WhatsApp bot built with Node.js and Baileys that brings AI intelligence to your WhatsApp groups. Logan provides intelligent group management, AI-powered responses, daily summaries, voice transcription, and automated Shabbat scheduling.
 
-**Built with ❤️ by @hoodini**
+**Built with ❤️ by @twzscales**
 
 
 
@@ -1482,49 +1482,6 @@ npm run build
 
 ---
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
-Copyright (c) 2024-2026 **Yuval Avidani** ([@hoodini](https://github.com/hoodini))
-
-This means you can:
-- ✅ Use commercially
-- ✅ Modify
-- ✅ Distribute
-- ✅ Private use
-
-You must:
-- 📝 Include license and copyright notice
-- 📝 State changes made
-- 📝 Attribute to original author
-
----
-
-## 👨‍💻 Author
-
-**Yuval Avidani** - AI Speaker & Builder
-
-<p>
-  <img src="https://img.shields.io/badge/2x%20GitHub%20Star-%E2%AD%90%E2%AD%90-yellow" alt="2x GitHub Star"/>
-  <img src="https://img.shields.io/badge/2x%20AWS%20Gen%20AI%20Superstar-%F0%9F%8C%9F%F0%9F%8C%9F-orange" alt="2x AWS Gen AI Superstar"/>
-</p>
-
-**Connect with me:**
-- 🌐 Website: [yuv.ai](https://yuv.ai)
-- 🐙 GitHub: [@hoodini](https://github.com/hoodini)
-- 🐦 Twitter/X: [@yuvalav](https://twitter.com/yuvalav)
-- 📸 Instagram: [@yuval_770](https://instagram.com/yuval_770)
-- 🎥 YouTube: [@yuv-ai](https://youtube.com/@yuv-ai)
-- 🔗 Linktree: [linktr.ee/yuvai](https://linktr.ee/yuvai)
-
-**About:**
-Yuval is a 2x GitHub Star and 2x AWS Gen AI Superstar, passionate about building AI-powered tools for communities. Logan is a passion project built with love and released to the open-source community to help others create intelligent WhatsApp bots.
-
-> *"Building AI tools that make a real difference in people's daily lives."* - Yuval Avidani
-
----
-
 ## 🙏 Acknowledgments
 
 ### Technology Stack
@@ -1543,31 +1500,13 @@ Built with these amazing open-source projects:
 - **[Express](https://expressjs.com)** - Web framework
 - **[Pino](https://getpino.io)** - Fast logging
 
-### Special Thanks
 
-- The Israeli tech community for inspiration and feedback
-- Early testers who helped refine Logan's features
-- The open-source community for making projects like this possible
-
----
-
-## 💬 Community & Support
-
-- **Issues**: [GitHub Issues](https://github.com/hoodini/whatsapp-logger/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/hoodini/whatsapp-logger/discussions)
-- **Security**: See [SECURITY.md](SECURITY.md) for reporting vulnerabilities
-- **Questions**: Open a discussion or reach out to [@hoodini](https://github.com/hoodini)
-
-### Contributing
-
-Contributions are welcome! See [Contributing](#-contributing) section above for guidelines.
 
 If Logan helped you, consider:
 - ⭐ Starring this repo
 - 🐛 Reporting bugs
 - 💡 Suggesting features
-- 📝 Improving documentation
-- 🔧 Submitting pull requests
+
 
 ---
 
@@ -1593,26 +1532,3 @@ This is an **unofficial, community-maintained project** not affiliated with or e
 - Respect privacy and data protection laws
 - Do not use for spam, harassment, or malicious purposes
 - Be transparent about bot presence and capabilities
-
----
-
-<p align="center">
-  <b>Built with ❤️ for the open source community by <a href="https://github.com/hoodini">Yuval Avidani</a></b>
-</p>
-
-<p align="center">
-  <a href="https://yuv.ai">🌐 Website</a> •
-  <a href="https://github.com/hoodini">🐙 GitHub</a> •
-  <a href="https://twitter.com/yuvalav">🐦 Twitter</a> •
-  <a href="https://youtube.com/@yuv-ai">🎥 YouTube</a>
-</p>
-
-<p align="center">
-  <a href="#-table-of-contents">Back to Top ↑</a>
-</p>
-
----
-
-<p align="center">
-  <i>If Logan helped you, consider starring ⭐ this repo and sharing it with others!</i>
-</p>
