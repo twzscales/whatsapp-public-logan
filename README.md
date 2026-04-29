@@ -5,7 +5,7 @@
 
 A powerful, self-hosted WhatsApp bot built with Node.js and Baileys that brings AI intelligence to your WhatsApp groups. Logan provides intelligent group management, AI-powered responses, daily summaries, voice transcription, and automated Shabbat scheduling.
 
-**Built with ❤️ for the open source community by @hoodini
+**Built with ❤️ by @hoodini**
 
 
 
