@@ -38,7 +38,6 @@ Logan is a **self-hosted WhatsApp bot** that runs on your own server/computer us
 - 🤖 **Responds intelligently** when @mentioned, using AI to understand context
 - 📊 **Generates daily summaries** of group discussions automatically
 - 🎤 **Transcribes voice messages** so you can read instead of listen
-- 🕯️ **Respects Shabbat** by automatically locking groups before Shabbat and unlocking after havdalah
 - 🚫 **Detects and removes spam** using AI-powered analysis
 - 🔊 **Creates voice summaries** using text-to-speech for accessibility
 
