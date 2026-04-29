@@ -1,28 +1,13 @@
 # Logan - Unofficial WhatsApp AI Bot 🤖
 
-> **Created by [Yuval Avidani](https://yuv.ai)** | 2x GitHub Star ⭐⭐ | 2x AWS Gen AI Superstar 🌟🌟 | AI Speaker & Builder
 
 > **Note**: This is an **unofficial, community-maintained** implementation of a WhatsApp AI bot. It is not affiliated with or endorsed by WhatsApp, Meta, or any official Logan project.
 
 A powerful, self-hosted WhatsApp bot built with Node.js and Baileys that brings AI intelligence to your WhatsApp groups. Logan provides intelligent group management, AI-powered responses, daily summaries, voice transcription, and automated Shabbat scheduling.
 
-**Built with ❤️ for the open source community by [@hoodini](https://github.com/hoodini)**
+**Built with ❤️ for the open source community by @hoodini
 
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"/>
-  <img src="https://img.shields.io/badge/Node.js-18%2B-green.svg" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-5.3%2B-blue.svg" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Author-Yuval%20Avidani-blueviolet" alt="Author"/>
-</p>
 
-<p align="center">
-  <a href="https://github.com/hoodini">GitHub</a> •
-  <a href="https://twitter.com/yuvalav">Twitter/X</a> •
-  <a href="https://instagram.com/yuval_770">Instagram</a> •
-  <a href="https://youtube.com/@yuv-ai">YouTube</a> •
-  <a href="https://yuv.ai">Blog</a> •
-  <a href="https://linktr.ee/yuvai">Linktree</a>
-</p>
 
 ---
 
